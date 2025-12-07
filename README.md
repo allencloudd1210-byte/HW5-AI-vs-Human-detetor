@@ -36,7 +36,6 @@ The application will open in your default web browser.
 
 -   `app.py`: Main application code.
 -   `test_model.py`: Script to verify model loading.
--   `conversation_log.txt`: Log of the development conversation.
 
 ## License
 
